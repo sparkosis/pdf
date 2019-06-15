@@ -1,7 +1,7 @@
 {
     "name": "sparkosis/pdf",
-    "description": ":description",
-    "license": "license",
+    "description": "Un package gotenberg pour laravel",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nicolas Ramos",
@@ -10,7 +10,7 @@
         }
     ],
     "homepage": "https://github.com/sparkosis/pdf",
-    "keywords": ["Laravel", "Pdf"],
+    "keywords": ["Sparkosis", "Pdf"],
     "require": {
         "illuminate/support": "~5",
         "thecodingmachine/gotenberg-php-client": "^5.0"
